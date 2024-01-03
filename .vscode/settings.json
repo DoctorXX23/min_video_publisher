@@ -1,0 +1,18 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/uarsnuc6/ws_ros2/install/nn_position_estimation/lib/python3.10/site-packages",
+        "/home/uarsnuc6/ws_ros2/install/min_video_publisher/lib/python3.10/site-packages",
+        "/home/uarsnuc6/ws_ros2/install/uars_ros_interface/local/lib/python3.10/dist-packages",
+        "/home/uarsnuc6/ws_ros2/install/nn_obj_detect/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/uarsnuc6/ws_ros2/install/nn_position_estimation/lib/python3.10/site-packages",
+        "/home/uarsnuc6/ws_ros2/install/min_video_publisher/lib/python3.10/site-packages",
+        "/home/uarsnuc6/ws_ros2/install/uars_ros_interface/local/lib/python3.10/dist-packages",
+        "/home/uarsnuc6/ws_ros2/install/nn_obj_detect/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
