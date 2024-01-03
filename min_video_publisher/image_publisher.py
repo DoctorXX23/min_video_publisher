@@ -14,7 +14,7 @@ class ImagePublisher(Node):
         self.bridge = CvBridge()
         #self.image_directory = '/home/uarsnuc6/ai/trail_dataset_raw/014/014/videos/07/videos/sc/26804209.frames'  # Update this path
         #self.image_directory = '/home/uarsnuc6/ai/trail_dataset_raw/012/012/videos/sc/26802500.frames'  # Update this path
-        self.image_directory = '/media/uarsnuc6/2903-994D/dataset_lateral/center'  # Update this path
+        self.image_directory = '/media/uarsnuc6/2903-994D/dataset_lateral/right'  # Update this path
         self.images = os.listdir(self.image_directory)
         self.images.sort()  # Sort the files if needed
         self.current_image_index = 0
